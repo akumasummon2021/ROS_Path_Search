@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/mnt/c/Users/akuma/Documents/akumasummon/learn/sillsyln/Challenge/Challenge4/devel -DCMAKE_INSTALL_PREFIX=/mnt/c/Users/akuma/Documents/akumasummon/learn/sillsyln/Challenge/Challenge4/install -G Unix Makefiles
